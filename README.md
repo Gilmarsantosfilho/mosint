@@ -1,20 +1,3 @@
-# MOSINT
-
-## What is the MOSINT ?
-
-MOSINT is an OSINT Tool for emails. It helps you gather information about the target email.
-
-#### Features:
-
-* Verification Service { Check if email exist }
-* Check social accounts with Socialscan
-* Check data breaches
-* Find related emails [API & PDFs]
-* Find related phone numbers
-* Find related domains
-* Scan Pastebin Dumps
-* Google Search
-* DNS Lookup
 
 
 
