@@ -1,25 +1,6 @@
 
 
 
-You can turn features on off from the `config.json` 
-
-```javascript
-[
-{
-  "verify-email.org API Key": "set API KEY here",
-  "hunter.io API Key": "set API KEY here",
-  "Breached Sites[leak-lookup.com API Key]": "set API KEY here",
-  "Social Scan": "True",
-  "Leaked DB": "True",
-  "Related Phone Numbers" : "True",
-  "Related Domains" : "True",
-  "Pastebin Dumps": "True",
-  "Google Search": "True",
-  "DNS Lookup": "True"
-}
-]
-```
-
 ## APIs:
 
 \[not required to run the program\]
